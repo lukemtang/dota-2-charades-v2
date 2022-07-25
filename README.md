@@ -9,7 +9,7 @@ Dota 2 Charades is a browser based multiplayer game, where players will take it 
 
 <p>I had previously started this project, but I decided to start afresh using React's create-react-app, which handles a lot of the boilerplate and has made this project easier to create.</p>
 
-<h3>About the development of this project<h3>
+<h3>About the development of this project</h3>
 
 <p>I intend to develop this project in stages. I firstly want to create a simple single player game, where a player has to guess the name of various dota 2-related sounds and pictures, which are randomly chosen by the game. This would still include a scoring system and a stopwatch.</p> 
 <p>I would then like to extend this functionality to real time multiplayer; that is, players on different clients connect and play in a single lobby. At this point I will implement the drawing canvas to introduce other ways of scoring other than typing.</p>
