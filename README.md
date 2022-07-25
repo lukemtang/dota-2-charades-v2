@@ -1,11 +1,15 @@
 # Dota2-charades
 
+<p align="center">
+  <img src="src/images/d2charades_1.png?raw=true" alt="Dota 2 Charades!"/>
+</p>
+
 <h2>What is Dota 2 Charades?</h2>
 
 A WIP multiplayer browser-based guessing game with questions based upon the video game Dota 2
 Dota 2 Charades is a browser based multiplayer game, where players will take it turns to draw various objects and names from the popular online video game Dota 2.
 
-<h3>A note about "V2"<h3>
+<h3>A note about "V2"</h3>
 
 <p>I had previously started this project, but I decided to start afresh using React's create-react-app, which handles a lot of the boilerplate and has made this project easier to create.</p>
 
